@@ -1,0 +1,39 @@
+link to my code repository on github: 
+lines of code: 
+- Farmer.java (279 lines of code)
+- Consumer.java (237 lines of code)
+- Catalog.java (25 lines of code)
+- Product.java (88 lines of code)
+- Search.java (26 lines of code)
+- Store.java (46 lines of code)
+- Delivery.java (15 lines of code)
+- Manager.java (246 lines of code)
+
+lines of code in unit tests:
+TestFarmer.java (13 lines of code)
+TestConsumer.java (13 lines of code)
+TestProduct.java (13 lines of code)
+TestManager.java (13 lines of code)
+TestSearch.java (13 lines of code)
+
+Unit test coverage:
+- TestFarmer.java (unit test coverage: 100%, Errors: 0, Failures: 0, Finished after 0.086 seconds)
+- TestConsumer.java (unit test coverage: 100%, Errors: 0, Failures: 0, Finished after 0.005 seconds)
+- TestProduct.java (unit test coverage: 100%, Errors: 0, Failures: 0, Finished after 0.000 seconds)
+- TestManager.java (unit test coverage: 100%, Errors: 0, Failures: 0, Finished after 0.000 seconds)
+- TestSearch.java (unit test coverage: 100%, Errors: 0, Failures: 0, Finished after 0.001 seconds)
+
+Number of hours I needed to get the code working: 100 hours
+I spent at least 5 weeks on this part of the assignment.
+
+Number of hours I spent preparing my submission: 100 hours
+I spent at least 3 weeks on this part of the assignment.
+
+A list of challenges I faced while working on this assignment and the solutions I found to those challenges:
+- The biggest challenge I faced while working on this assignment was figuring out how to implement the search entity 
+as per the requirements of the project API. 
+- solution to this challenge: I used the hints provided by the json implementation and test case to solve this challenge.
+- Another challenge I faced was figuring out how to translate the test cases to java code for each entity listed in the project API.
+- solution to this challenge: First, I made sense of what sample json inputs and outputs for each entity. Then, I used that 
+knoledge to translate the logic into java code. Finally, I cracked the challenge while writing code, because the implementation of each entity started 
+to make sense.
